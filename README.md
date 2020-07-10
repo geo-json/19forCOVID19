@@ -1,6 +1,8 @@
 # 19forCOVID19 Website
 19forCOVID19 website maps and other data.
 
+GitHub Webpage - https://geo-json.github.io/19forCOVID19/
+
 
 About Us - Based in Southeastern Michigan, we are a social enterprise amplifying the voices of local non-profits, small businesses, and individuals working towards  relief efforts amidst the COVID-19 pandemic. We strive to keep our community informed and engaged through multimedia coverage of our partner organizations.  
 
